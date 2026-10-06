@@ -1,0 +1,6 @@
+{
+  "name": "YourMart Global",
+  "description": "Enterprise Wholesale, Reseller & Dropshipping Automation Engine with Smart Product Discovery, Profit Guard, COD Verification, and Multi-Store Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
